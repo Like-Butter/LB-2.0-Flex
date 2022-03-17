@@ -1,0 +1,709 @@
+{
+  "sections": {
+    "1557099047693": {
+      "type": "index__image-with-text-overlay",
+      "settings": {
+        "link": "",
+        "image": "shopify://shop_images/techno__iwto-01.jpg",
+        "pretext": "<p>CAS 5K SMART TV</p>",
+        "title": "Start seeing things differently",
+        "subtitle": "",
+        "pretext_color": "#ffffff",
+        "heading_color": "#ffffff",
+        "subheading_color": "#ffffff",
+        "text_alignment": "right",
+        "text_horizontal_position": "right",
+        "text_vertical_position": "middle",
+        "background_color": "#470871",
+        "background_opacity": 0,
+        "border_color": "#ffffff",
+        "border_width": 0,
+        "text_width": 65,
+        "button_1": "Pre-order today",
+        "button_1_link": "shopify://products/cas-5k-hdr-smart-tv",
+        "button_1_style": "button--primary",
+        "button_2": "",
+        "button_2_link": "",
+        "button_2_style": "button--secondary",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "pretext_color_mobile": "rgba(0,0,0,0)",
+        "heading_color_mobile": "rgba(0,0,0,0)",
+        "subheading_color_mobile": "rgba(0,0,0,0)",
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1557099063267": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "1557099063267-2": {
+          "type": "text",
+          "settings": {
+            "title": "Tech Specs",
+            "heading_size": "large",
+            "text": "<p>Built-in AI sound and picture</p><p>Software and App bundles</p><p>Powerful 5K LED</p><p>Sleek Ultra-Flat Screen</p><p>Latest bionic battery power</p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "#000000",
+            "text_color": "#ffffff",
+            "alignment": "right",
+            "vertical_position": "center"
+          }
+        },
+        "1557099063267-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/techno__iwt-01.png",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "1564437300821": {
+          "type": "text",
+          "settings": {
+            "title": "Product Highlights",
+            "heading_size": "large",
+            "text": "<p>The CAS 5K Smart TV has  received endorsements from top software platforms and companies. With built-in integrations with Netflix, Amazon and Apple, you can access everything in one place.</p>",
+            "button_label": "More info",
+            "link": "shopify://products/cas-5k-hdr-smart-tv",
+            "button_style": "button--primary",
+            "background": "#000000",
+            "text_color": "#ffffff",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1557099063267-2",
+        "1557099063267-0",
+        "1564437300821"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1557099160579": {
+      "type": "index__logo-list",
+      "blocks": {
+        "1557099160579-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/techno__logolist-04.png",
+            "link": ""
+          }
+        },
+        "1564500536156": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/techno__logolist-07.png",
+            "link": ""
+          }
+        },
+        "1557099160579-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/techno__logolist-02.png",
+            "link": ""
+          }
+        },
+        "1557099160579-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/techno__logolist-03.png",
+            "link": ""
+          }
+        },
+        "1564500504640": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/techno__logolist-01.png",
+            "link": ""
+          }
+        },
+        "1557099160579-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/techno__logolist-06.png",
+            "link": ""
+          }
+        },
+        "1557099160579-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/techno__logolist-05.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1557099160579-0",
+        "1564500536156",
+        "1557099160579-2",
+        "1557099160579-3",
+        "1564500504640",
+        "1557099160579-1",
+        "1557099160579-4"
+      ],
+      "settings": {
+        "logos_per_row": 7,
+        "logo_size": "medium",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564437257089": {
+      "type": "index__newsletter",
+      "settings": {
+        "display_first_name": false,
+        "display_last_name": false,
+        "newsletter_title": "Stay in the know!",
+        "newsletter_richtext": "<p>Sign up for our newsletter to hear about all the latest tech news, product launches, upcoming events and more!</p>",
+        "newsletter_section_text_align": "center",
+        "background_color": "rgba(0,0,0,0)",
+        "text_color": "#397ceb",
+        "image_darken": false,
+        "image_cropping": "center",
+        "image_position": "left",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564457221296": {
+      "type": "index__image-with-text-overlay",
+      "settings": {
+        "link": "",
+        "image": "shopify://shop_images/techno__iwto-04.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "pretext_color": "#000000",
+        "heading_color": "#000000",
+        "subheading_color": "#000000",
+        "text_alignment": "center",
+        "text_horizontal_position": "center",
+        "text_vertical_position": "middle",
+        "background_color": "#ffffff",
+        "background_opacity": 77,
+        "border_color": "#ffffff",
+        "border_width": 0,
+        "text_width": 40,
+        "button_1": "",
+        "button_1_link": "",
+        "button_1_style": "button--secondary",
+        "button_2": "",
+        "button_2_link": "",
+        "button_2_style": "button--secondary",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "pretext_color_mobile": "rgba(0,0,0,0)",
+        "heading_color_mobile": "rgba(0,0,0,0)",
+        "subheading_color_mobile": "rgba(0,0,0,0)",
+        "width": "half",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "slideInLeft",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564458918718": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "Change the way you watch TV.",
+        "heading_font": "helvetica_n7",
+        "heading_color": "#ffffff",
+        "heading_alignment": "left",
+        "heading_size": 58,
+        "text": "<p>Like nothing you&#x27;ve ever seen before, we&#x27;re introducing brand new, built-in AI and ultimate 5K picture technology, all in one device.</p>",
+        "text_font": "helvetica_n4",
+        "text_color": "#ffffff",
+        "text_alignment": "left",
+        "text_size": 22,
+        "columns": 1,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "left",
+        "button_style": "button--primary",
+        "background": "#3e17b6",
+        "gradient": "#000000",
+        "gradient_rotation": 30,
+        "width": "half",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "slideInRight",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564459258104": {
+      "type": "index__icon-with-text-column",
+      "blocks": {
+        "1564459258104-0": {
+          "type": "logo_image",
+          "settings": {
+            "icon_label": "bolt",
+            "title": "Powerful Technology",
+            "text": "<p>The most powerful technology, yet. Learn how our tech setup is miles ahead of the rest. </p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "1564459258104-1": {
+          "type": "logo_image",
+          "settings": {
+            "icon_label": "gear",
+            "title": "Completely Compatible",
+            "text": "<p>Compatible with all other devices There&#x27;s no need to worry about a missed connection ever again.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "1564459258104-2": {
+          "type": "logo_image",
+          "settings": {
+            "icon_label": "battery",
+            "title": "Longest Battery Ever",
+            "text": "<p>Running on our latest Bionic battery, it&#x27;s proven to have a longer battery life than its competitors.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "1564459258104-3": {
+          "type": "logo_image",
+          "settings": {
+            "icon_label": "music",
+            "title": "Sync With Your Tunes",
+            "text": "<p>Whether you have apple music, spotify, or mp3s, you can sync all your music on this device.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1564459258104-0",
+        "1564459258104-1",
+        "1564459258104-2",
+        "1564459258104-3"
+      ],
+      "settings": {
+        "icons_per_row": 4,
+        "icon_size": "small",
+        "align_text": "center",
+        "button_style": "button--primary",
+        "icon_color": "#397ceb",
+        "text_color": "#ffffff",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 0,
+        "padding_bottom": 80,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564496828612": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "Signature Smart Intelligence",
+        "heading_font": "helvetica_n7",
+        "heading_color": "#8741c8",
+        "heading_alignment": "center",
+        "heading_size": 30,
+        "text": "<p>The CAS 5K Smart TV has  received endorsements from top software platforms and companies. With built-in integrations with Netflix, Amazon and Apple and easy access to all major gaming platforms, so you can enjoy everything in one place.</p>",
+        "text_font": "helvetica_n4",
+        "text_color": "#ffffff",
+        "text_alignment": "center",
+        "text_size": 25,
+        "columns": 1,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "width": "standard",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "zoomIn",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564497644561": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "",
+        "heading_font": "open_sans_n4",
+        "heading_color": "rgba(0,0,0,0)",
+        "heading_alignment": "center",
+        "heading_size": 30,
+        "text": "",
+        "text_font": "open_sans_n4",
+        "text_color": "rgba(0,0,0,0)",
+        "text_alignment": "left",
+        "text_size": 14,
+        "columns": 2,
+        "button_label": "PRE-ORDER YOURS TODAY AND SAVE 10%",
+        "button_link": "shopify://products/cas-5k-hdr-smart-tv",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "#426eed",
+        "gradient": "#6624a2",
+        "gradient_rotation": 180,
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 44,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "fadeInDown",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564498559881": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "Meet the next generation of AI technology",
+        "heading_font": "helvetica_n7",
+        "heading_color": "#ffffff",
+        "heading_alignment": "center",
+        "heading_size": 58,
+        "text": "<p>Like nothing ever before.</p>",
+        "text_font": "helvetica_n4",
+        "text_color": "#8741c8",
+        "text_alignment": "center",
+        "text_size": 23,
+        "columns": 1,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "width": "half",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564499007439": {
+      "type": "index__image-with-text-overlay",
+      "settings": {
+        "link": "",
+        "image": "shopify://shop_images/techno__iwto-03.jpg",
+        "pretext": "",
+        "title": "The future is now",
+        "subtitle": "<p>Introducing the next big thing in tech</p>",
+        "pretext_color": "#ffffff",
+        "heading_color": "#ffffff",
+        "subheading_color": "#7699ff",
+        "text_alignment": "center",
+        "text_horizontal_position": "center",
+        "text_vertical_position": "middle",
+        "background_color": "#ffffff",
+        "background_opacity": 0,
+        "border_color": "#ffffff",
+        "border_width": 0,
+        "text_width": 56,
+        "button_1": "Take me there",
+        "button_1_link": "shopify://products/cas-5k-hdr-smart-tv",
+        "button_1_style": "button--primary",
+        "button_2": "",
+        "button_2_link": "",
+        "button_2_style": "button--primary",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "pretext_color_mobile": "rgba(0,0,0,0)",
+        "heading_color_mobile": "rgba(0,0,0,0)",
+        "subheading_color_mobile": "rgba(0,0,0,0)",
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564499432760": {
+      "type": "index__image-with-text-overlay",
+      "settings": {
+        "link": "",
+        "image": "shopify://shop_images/techno__iwto-02.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "pretext_color": "#000000",
+        "heading_color": "#000000",
+        "subheading_color": "#000000",
+        "text_alignment": "center",
+        "text_horizontal_position": "center",
+        "text_vertical_position": "middle",
+        "background_color": "#ffffff",
+        "background_opacity": 77,
+        "border_color": "#ffffff",
+        "border_width": 0,
+        "text_width": 40,
+        "button_1": "",
+        "button_1_link": "",
+        "button_1_style": "button--secondary",
+        "button_2": "",
+        "button_2_link": "",
+        "button_2_style": "button--secondary",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "pretext_color_mobile": "rgba(0,0,0,0)",
+        "heading_color_mobile": "rgba(0,0,0,0)",
+        "subheading_color_mobile": "rgba(0,0,0,0)",
+        "width": "half",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "slideInRight",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564499586150": {
+      "type": "index__rich-text",
+      "settings": {
+        "title": "Compelling Technology",
+        "heading_font": "helvetica_n7",
+        "heading_color": "#ffffff",
+        "heading_alignment": "center",
+        "heading_size": 58,
+        "text": "<p>With both AI picture and AI sound, there is truly no comparison to other smart TVs. The CAS has it all.</p>",
+        "text_font": "helvetica_n4",
+        "text_color": "#ffffff",
+        "text_alignment": "center",
+        "text_size": 22,
+        "columns": 1,
+        "button_label": "",
+        "button_link": "",
+        "button_alignment": "center",
+        "button_style": "button--primary",
+        "background": "#3850e1",
+        "gradient": "#000000",
+        "gradient_rotation": 100,
+        "width": "half",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "slideInLeft",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564522017283": {
+      "type": "index__image-with-text-overlay",
+      "settings": {
+        "link": "",
+        "image": "shopify://shop_images/techno__iwto-05.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "pretext_color": "#000000",
+        "heading_color": "#000000",
+        "subheading_color": "#000000",
+        "text_alignment": "center",
+        "text_horizontal_position": "center",
+        "text_vertical_position": "middle",
+        "background_color": "#ffffff",
+        "background_opacity": 77,
+        "border_color": "#ffffff",
+        "border_width": 0,
+        "text_width": 40,
+        "button_1": "",
+        "button_1_link": "",
+        "button_1_style": "button--secondary",
+        "button_2": "",
+        "button_2_link": "",
+        "button_2_style": "button--secondary",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "pretext_color_mobile": "rgba(0,0,0,0)",
+        "heading_color_mobile": "rgba(0,0,0,0)",
+        "subheading_color_mobile": "rgba(0,0,0,0)",
+        "width": "half",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "slideInRight",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564698390065": {
+      "type": "index__divider",
+      "settings": {
+        "divider_style": "short",
+        "divider_width": 0,
+        "divider_color": "rgba(0,0,0,0)",
+        "alignment": "center",
+        "width": "standard",
+        "padding_top": 18,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564698632559": {
+      "type": "index__divider",
+      "settings": {
+        "divider_style": "short",
+        "divider_width": 0,
+        "divider_color": "rgba(0,0,0,0)",
+        "alignment": "center",
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 49,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1564698942876": {
+      "type": "index__divider",
+      "settings": {
+        "divider_style": "short",
+        "divider_width": 0,
+        "divider_color": "rgba(0,0,0,0)",
+        "alignment": "center",
+        "width": "standard",
+        "padding_top": 31,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "160640248604a6a2f6": {
+      "type": "index__faq",
+      "blocks": {
+        "160640248604a6a2f6-1": {
+          "type": "content",
+          "settings": {
+            "title": "Do you ship wordwide?",
+            "answer": "<p>We do! Please select your country for localized checkout and appropriate pricing, duties, and taxation processing.</p>"
+          }
+        },
+        "160640248604a6a2f6-3": {
+          "type": "content",
+          "settings": {
+            "title": "Do you offer local pickup?",
+            "answer": "<p>Local pickup is available in Southern California only. Please contact us in advance to schedule a local pickup.</p>"
+          }
+        },
+        "160640248604a6a2f6-2": {
+          "type": "content",
+          "settings": {
+            "title": "What is the warranty on the CAS 5K Smart TV?",
+            "answer": "<p>The CAS 5K Smart TV has a 3-year warranty.  In the unlikely case of any problems, we will quickly fix the TV, free of charge, or send a brand new TV to your location of choice.</p>"
+          }
+        },
+        "160640248604a6a2f6-6": {
+          "type": "content",
+          "settings": {
+            "title": "How much does the CAS 5K Smart TV weigh?",
+            "answer": "<p>The weight is different if you are using the stand or if you aren&#x27;t:  </p><p><em>With Stand</em><br/>25.6 pounds<br/><br/><em>Without Stand</em><br/>25.1 pounds.</p>"
+          }
+        },
+        "160640248604a6a2f6-5": {
+          "type": "content",
+          "settings": {
+            "title": "How do I configure the built-in software integrations?",
+            "answer": "<p>All integration instructions are included in the CAS 5K Smart TV manual. Don&#x27;t fret – it&#x27;s quick and easy!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "160640248604a6a2f6-1",
+        "160640248604a6a2f6-3",
+        "160640248604a6a2f6-2",
+        "160640248604a6a2f6-6",
+        "160640248604a6a2f6-5"
+      ],
+      "settings": {
+        "title": "",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 60,
+        "animation": "fadeIn",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "1557099047693",
+    "1564498559881",
+    "1564522017283",
+    "1564459258104",
+    "1564698390065",
+    "1564457221296",
+    "1564458918718",
+    "1564698632559",
+    "1557099063267",
+    "1564698942876",
+    "1564499586150",
+    "1564499432760",
+    "1564499007439",
+    "1564496828612",
+    "1557099160579",
+    "160640248604a6a2f6",
+    "1564497644561",
+    "1564437257089"
+  ]
+}
