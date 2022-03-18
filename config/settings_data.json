@@ -6,7 +6,7 @@
     "header_layout": "classic",
     "footer_layout": "centered",
     "image_loading_style": "color",
-    "logo_mobile": "shopify://shop_images/techno__logo-purple.png",
+    "logo_mobile": "shopify:\/\/shop_images\/techno__logo-purple.png",
     "mobile_logo_width": 110,
     "logo_mobile_position": "center",
     "logo_menu_position": "left",
@@ -84,7 +84,7 @@
     "mega_menu_8": false,
     "mega_menu_9": false,
     "mega_menu_10": false,
-    "shop_bg_color": "#000000",
+    "shop_bg_color": "#ffffff",
     "border_color": "#ffffff",
     "regular_color": "#ffffff",
     "link_color": "#426eed",
@@ -185,7 +185,7 @@
     "product_form_style": "radio",
     "swatch_style": "rounded",
     "notify_me_form": true,
-    "notify_me_description": "<p>Notify me when this product is available:</p>",
+    "notify_me_description": "<p>Notify me when this product is available:<\/p>",
     "size_chart": "",
     "enable_quickshop": true,
     "quickshop_button_style": "button--secondary",
@@ -222,9 +222,9 @@
     "default_currency": "USD",
     "disqus_enabled": false,
     "disqus_shortname": "",
-    "favicon": "shopify://shop_images/techno__favicon.png",
-    "checkout_header_image": "shopify://shop_images/techno__page--checkout-01.jpg",
-    "checkout_logo_image": "shopify://shop_images/techno__logo-white.png",
+    "favicon": "shopify:\/\/shop_images\/techno__favicon.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/techno__page--checkout-01.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/techno__logo-white.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
     "checkout_body_background_image": "",
@@ -247,11 +247,11 @@
         "type": "announcement-bar",
         "settings": {
           "icon_label": "",
-          "text": "<p>Choose from home delivery or storefront pickup</p>",
+          "text": "<p>Choose from home delivery or storefront pickup<\/p>",
           "alignment": "center",
           "size": "regular",
           "button_label": "Learn more",
-          "link": "shopify://pages/faq",
+          "link": "shopify:\/\/pages\/faq",
           "button_style": "button--link-style",
           "background": "#000000",
           "text_color": "#ffffff",
@@ -274,7 +274,8 @@
           },
           "header__top-bar-1": {
             "type": "social_media",
-            "settings": {}
+            "settings": {
+            }
           },
           "1564456971269": {
             "type": "menu",
@@ -309,7 +310,7 @@
       "header-classic": {
         "type": "header-classic",
         "settings": {
-          "logo": "shopify://shop_images/techno__logo-purple.png",
+          "logo": "shopify:\/\/shop_images\/Like_Butter_logo.png",
           "logo_width": 125,
           "main_linklist": "main-menu",
           "menu_alignment": "end",
@@ -346,7 +347,7 @@
             "type": "featured_promo",
             "settings": {
               "image": "",
-              "richtext": "<p>Add description and links to your promotion</p>",
+              "richtext": "<p>Add description and links to your promotion<\/p>",
               "bgr_color": "#eeeeee",
               "text_color": "#000000",
               "promo_link": "",
@@ -376,14 +377,15 @@
           },
           "mega-menu-1-3": {
             "type": "empty_column",
-            "settings": {}
+            "settings": {
+            }
           },
           "mega-menu-1-4": {
             "type": "image",
             "settings": {
               "image": "",
               "image_link": "",
-              "image_caption": "<p>Image caption appears here</p>"
+              "image_caption": "<p>Image caption appears here<\/p>"
             }
           },
           "mega-menu-1-5": {
@@ -441,7 +443,7 @@
             "type": "text",
             "settings": {
               "icon": "youtube",
-              "text": "24/7 support",
+              "text": "24\/7 support",
               "link": ""
             }
           },
@@ -515,7 +517,7 @@
             "type": "text",
             "settings": {
               "title": "Title",
-              "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+              "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
               "social_icons_footer": false
             }
           }
@@ -545,14 +547,14 @@
           "border_color": "#3850e1",
           "border_width": 6,
           "newsletter_title": "Stay in the know!",
-          "newsletter_text": "<p>Sign up for our newsletter to&nbsp;hear about all the latest tech news, product launches, upcoming events and more!</p>",
+          "newsletter_text": "<p>Sign up for our newsletter to&nbsp;hear about all the latest tech news, product launches, upcoming events and more!<\/p>",
           "newsletter_section_text_align": "left",
           "text_color": "#ffffff",
           "background_color": "#000000",
           "show_signup_form": true,
           "display_first_name": true,
           "display_last_name": false,
-          "image": "shopify://shop_images/techno__popup-02.jpg",
+          "image": "shopify:\/\/shop_images\/techno__popup-02.jpg",
           "image_cropping": "none",
           "image_position": "left",
           "overlay_color": "#000000",
@@ -568,7 +570,7 @@
         "type": "header-centered__top-bar",
         "settings": {
           "show_social_icons": true,
-          "text": "<p>Add a phone number or other information.</p>",
+          "text": "<p>Add a phone number or other information.<\/p>",
           "show_locale_selector": true,
           "show_currency_selector": true,
           "font": "open_sans_n4",
@@ -634,7 +636,7 @@
             "type": "text",
             "settings": {
               "title": "Title",
-              "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+              "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
             }
           }
         },
@@ -655,7 +657,7 @@
           "promo_text": "#000000",
           "promo_position": "row-reverse",
           "promo_image": "",
-          "richtext": "<p>Use this area for promotional information.</p>",
+          "richtext": "<p>Use this area for promotional information.<\/p>",
           "promo_link": "",
           "button_label": "Shop now",
           "button_style": "button--primary",
@@ -669,13 +671,13 @@
           "footer-centered-0": {
             "type": "logo",
             "settings": {
-              "logo": "shopify://shop_images/techno__logo-purple.png",
               "size": "small"
             }
           },
           "footer-centered-3": {
             "type": "social",
-            "settings": {}
+            "settings": {
+            }
           }
         },
         "block_order": [
@@ -696,8 +698,8 @@
       "password__main": {
         "type": "password__main",
         "settings": {
-          "custom_logo": "shopify://shop_images/techno__logo-white.png",
-          "password-page-background": "shopify://shop_images/techno__page--password-01.jpg",
+          "custom_logo": "shopify:\/\/shop_images\/techno__logo-white.png",
+          "password-page-background": "shopify:\/\/shop_images\/techno__page--password-01.jpg",
           "pagework_page_bg_stretched": true,
           "copyright_text": "",
           "display_designed_by": true,
@@ -712,60 +714,6 @@
           "display_last_name": false,
           "padding_top": 80,
           "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "blog__banner": {
-        "type": "blog__banner",
-        "settings": {
-          "show_banner": true,
-          "image": "shopify://shop_images/techno__page--blog-01.jpg",
-          "image_darken": true,
-          "subtitle": "",
-          "width": "wide",
-          "banner_height": "medium",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "blog__sidebar": {
-        "type": "blog__sidebar",
-        "blocks": {
-          "blog__sidebar-0": {
-            "type": "featured_promo",
-            "settings": {
-              "promo_background": "#eeeeee",
-              "promo_text": "#000000",
-              "richtext": "<p>Use this area for promotional information.</p>",
-              "button_label": "Shop now",
-              "button_style": "button--primary"
-            }
-          },
-          "blog__sidebar-1": {
-            "type": "menu",
-            "settings": {
-              "menu": ""
-            }
-          },
-          "blog__sidebar-2": {
-            "type": "text",
-            "settings": {
-              "title": "Heading",
-              "text": "<p>Text area can be used for details about blog authors or general information.</p>"
-            }
-          }
-        },
-        "block_order": [
-          "blog__sidebar-0",
-          "blog__sidebar-1",
-          "blog__sidebar-2"
-        ],
-        "settings": {
-          "show_sidebar": false,
-          "sidebar_position": "left",
           "css_class": "",
           "custom_css": ""
         }
@@ -790,60 +738,6 @@
           "padding_top": 40,
           "padding_bottom": 40,
           "animation": "none",
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "article__banner": {
-        "type": "article__banner",
-        "settings": {
-          "show_banner": false,
-          "image_darken": false,
-          "width": "wide",
-          "banner_height": "medium",
-          "padding_top": 35,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "article__sidebar": {
-        "type": "article__sidebar",
-        "blocks": {
-          "article__sidebar-0": {
-            "type": "featured_promo",
-            "settings": {
-              "promo_background": "#eeeeee",
-              "promo_text": "#000000",
-              "promo_image": "",
-              "richtext": "<p>Use this area for promotional information.</p>",
-              "promo_link": "",
-              "button_label": "Shop now",
-              "button_style": "button--primary"
-            }
-          },
-          "article__sidebar-1": {
-            "type": "menu",
-            "settings": {
-              "menu": ""
-            }
-          },
-          "article__sidebar-2": {
-            "type": "text",
-            "settings": {
-              "title": "Heading",
-              "text": "<p>Text area can be used for details about blog authors or general information.</p>"
-            }
-          }
-        },
-        "block_order": [
-          "article__sidebar-0",
-          "article__sidebar-1",
-          "article__sidebar-2"
-        ],
-        "settings": {
-          "show_sidebar": false,
-          "sidebar_position": "left",
           "css_class": "",
           "custom_css": ""
         }
@@ -898,278 +792,6 @@
           "custom_css": ""
         }
       },
-      "page-faq__banner": {
-        "type": "page-faq__banner",
-        "settings": {
-          "show_banner": true,
-          "image": "shopify://shop_images/techno__page--password-01.jpg",
-          "image_darken": true,
-          "subtitle": "",
-          "width": "wide",
-          "banner_height": "small",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "page-faq__main": {
-        "type": "page-faq__main",
-        "settings": {
-          "width": "standard",
-          "padding_top": 40,
-          "padding_bottom": 40,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "page-faq__column1": {
-        "type": "page-faq__column1",
-        "blocks": {
-          "1564548955067": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/techno__page--faq-01.jpg"
-            }
-          }
-        },
-        "block_order": [
-          "1564548955067"
-        ],
-        "settings": {
-          "padding_top": 29,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "page-faq__column2": {
-        "type": "page-faq__column2",
-        "blocks": {
-          "1564549002761": {
-            "type": "heading",
-            "settings": {
-              "title": "Product Information"
-            }
-          },
-          "1564548968861": {
-            "type": "content",
-            "settings": {
-              "title": "What is the difference between a smart TV and regular?",
-              "answer": "<p>Smart TVs support integrations with numerous apps and are able to connect to the internet &ndash; whereas regular TVs do not have this capability.&nbsp;</p>"
-            }
-          },
-          "1564548974097": {
-            "type": "content",
-            "settings": {
-              "title": "How does the smart TV connect to the internet?",
-              "answer": "<p>The smart TV can either connect to the internet via Wi-Fi or with wired Ethernet.&nbsp;</p>"
-            }
-          },
-          "1564548981040": {
-            "type": "content",
-            "settings": {
-              "title": "Which apps integrate with the smart TV?",
-              "answer": "<p>The apps that&nbsp;currently integrate with the smart TV are: Hulu, Hbo, Playstation, Netflix, Sling, Apple TV, and Prime.</p>"
-            }
-          },
-          "1564548985556": {
-            "type": "content",
-            "settings": {
-              "title": "Can I use the smart TV to surf the web?",
-              "answer": "<p>You can! Since the smart TV has internet, you can open up the browser app and go online.&nbsp;</p>"
-            }
-          },
-          "1564549012536": {
-            "type": "heading",
-            "settings": {
-              "title": "Shipping/Returns"
-            }
-          },
-          "1564548989019": {
-            "type": "content",
-            "settings": {
-              "title": "What payment methods do you take?",
-              "answer": "<p>We accept Visa, Mastercard, AMEX, and PayPal.&nbsp;</p>"
-            }
-          },
-          "1564548992971": {
-            "type": "content",
-            "settings": {
-              "title": "What if my TV arrives damaged?",
-              "answer": "<p>If the product has experienced damages during the shipping process, please contact us upon delivery and we will happily setup a replacement for you.</p>"
-            }
-          },
-          "1564548998014": {
-            "type": "content",
-            "settings": {
-              "title": "How can I track my order?",
-              "answer": "<p>Once your order has shipped, you will receive an email that will&nbsp;include the tracking number from the delivery courier.</p>"
-            }
-          },
-          "1564549537871": {
-            "type": "content",
-            "settings": {
-              "title": "What is your return policy?",
-              "answer": "<p>You can return your product within 14 days of delivery. Please contact us to set up a return.</p>"
-            }
-          }
-        },
-        "block_order": [
-          "1564549002761",
-          "1564548968861",
-          "1564548974097",
-          "1564548981040",
-          "1564548985556",
-          "1564549012536",
-          "1564548989019",
-          "1564548992971",
-          "1564548998014",
-          "1564549537871"
-        ],
-        "settings": {
-          "padding_top": 65,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "page-details__main": {
-        "type": "page-details__main",
-        "blocks": {
-          "1564596094507": {
-            "type": "featured_video",
-            "settings": {
-              "aspect_ratio": "16:9",
-              "autoplay": false,
-              "autoloop": true,
-              "mute_video": false,
-              "controls": true,
-              "iframe_video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-              "html5_video": "",
-              "image": "",
-              "pretext": "",
-              "title": "Featured video",
-              "subtitle": "Embed a Youtube or Vimeo video.",
-              "pretext_color": "#000000",
-              "heading_color": "#000000",
-              "subheading_color": "#000000",
-              "horizontal_text_position": "left",
-              "vertical_text_position": "center",
-              "text_align": "center",
-              "button_label": "Play video",
-              "button_style": "button--secondary",
-              "overlay_style": "text_only",
-              "video_overlay_color": "#ffffff",
-              "gradient": "rgba(0,0,0,0)",
-              "gradient_rotation": 180,
-              "background_opacity": 77,
-              "text_width": 70,
-              "mobile_text_below_video": true,
-              "pretext_color_mobile": "rgba(0,0,0,0)",
-              "heading_color_mobile": "rgba(0,0,0,0)",
-              "subheading_color_mobile": "rgba(0,0,0,0)",
-              "width": "wide",
-              "padding_top": 20,
-              "padding_bottom": 0,
-              "padding_left": 0,
-              "padding_right": 0,
-              "animation": "none"
-            }
-          },
-          "1564596088052": {
-            "type": "rich_text",
-            "settings": {
-              "title": "Rich text",
-              "heading_font": "open_sans_n4",
-              "heading_color": "rgba(0,0,0,0)",
-              "heading_alignment": "center",
-              "heading_size": 30,
-              "text": "<p>Use this section to create some callout text on your page, or add more details about your shop, services, promotions, etc. If you have a large amount&nbsp;of text, you can opt to have it display in <strong>two columns</strong> instead so that it's much easier to read.</p>\n<p></p>\n<p>This section also includes&nbsp;the option to add a button&nbsp;in primary or secondary style, and also control the colors, including the option for a gradient background. Since this is rich text, you can also <em>format it as you wish</em> and&nbsp;<a href=\"/collections/all\" title=\"All Products\">include links</a>.</p>",
-              "text_font": "open_sans_n4",
-              "text_color": "rgba(0,0,0,0)",
-              "text_alignment": "left",
-              "text_size": 14,
-              "columns": 2,
-              "button_label": "",
-              "button_link": "",
-              "button_alignment": "center",
-              "button_style": "button--primary",
-              "background": "#eeeeee",
-              "gradient": "#c0c0c0",
-              "gradient_rotation": 180,
-              "width": "wide",
-              "padding_top": 20,
-              "padding_bottom": 0,
-              "padding_left": 0,
-              "padding_right": 0,
-              "animation": "none"
-            }
-          },
-          "page-details__main-0": {
-            "type": "image_with_overlay",
-            "settings": {
-              "image": "",
-              "link": "",
-              "pretext": "<p>Preheading</p>",
-              "title": "Image with Text Overlay",
-              "subtitle": "<p>Additional info in the subheading</p>",
-              "pretext_color": "#000000",
-              "heading_color": "#000000",
-              "subheading_color": "#000000",
-              "text_alignment": "center",
-              "text_horizontal_position": "center",
-              "text_vertical_position": "middle",
-              "background_color": "#ffffff",
-              "background_opacity": 77,
-              "border_color": "#ffffff",
-              "border_width": 0,
-              "text_width": 40,
-              "button_1": "Button 1",
-              "button_1_link": "",
-              "button_1_style": "button--secondary",
-              "button_2": "Button 2",
-              "button_2_link": "",
-              "button_2_style": "button--secondary",
-              "mobile_image_crop": "none",
-              "mobile_text_below_image": true,
-              "pretext_color_mobile": "rgba(0,0,0,0)",
-              "heading_color_mobile": "rgba(0,0,0,0)",
-              "subheading_color_mobile": "rgba(0,0,0,0)",
-              "width": "wide",
-              "padding_top": 0,
-              "padding_bottom": 0,
-              "padding_left": 0,
-              "padding_right": 0,
-              "animation": "none"
-            }
-          }
-        },
-        "block_order": [
-          "1564596094507",
-          "1564596088052",
-          "page-details__main-0"
-        ],
-        "settings": {
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "cart__banner": {
-        "type": "cart__banner",
-        "settings": {
-          "show_banner": true,
-          "image": "shopify://shop_images/techno__page--cart-01.jpg",
-          "image_darken": true,
-          "subtitle": "",
-          "width": "wide",
-          "banner_height": "medium",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
       "cart__main": {
         "type": "cart__main",
         "settings": {
@@ -1183,83 +805,14 @@
           "custom_css": ""
         }
       },
-      "404__banner": {
-        "type": "404__banner",
-        "settings": {
-          "show_banner": true,
-          "image": "shopify://shop_images/techno__page--404-01.jpg",
-          "image_darken": false,
-          "width": "wide",
-          "banner_height": "medium",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
       "404__main": {
         "type": "404__main",
         "settings": {
-          "not_found_text": "<p>We're sorry, but the page you requested could not be found.</p><p>Try searching or <a href='/collections/all'>continue shopping</a>.</p>",
+          "not_found_text": "<p>We're sorry, but the page you requested could not be found.<\/p><p>Try searching or <a href='\/collections\/all'>continue shopping<\/a>.<\/p>",
           "display_search_field": true,
           "width": "standard",
           "padding_top": 40,
           "padding_bottom": 40,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "collection__banner": {
-        "type": "collection__banner",
-        "settings": {
-          "show_banner": false,
-          "image": "",
-          "image_darken": false,
-          "subtitle": "Subheading",
-          "width": "wide",
-          "banner_height": "medium",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "css_class": "",
-          "custom_css": ""
-        }
-      },
-      "collection__sidebar": {
-        "type": "collection__sidebar",
-        "blocks": {
-          "collection__sidebar-0": {
-            "type": "featured_promo",
-            "settings": {
-              "promo_background": "#eeeeee",
-              "promo_text": "#000000",
-              "promo_image": "",
-              "richtext": "<p>Use this area for promotional information.</p>",
-              "promo_link": "",
-              "button_label": "Shop now",
-              "button_style": "button--primary"
-            }
-          },
-          "collection__sidebar-1": {
-            "type": "menu",
-            "settings": {
-              "menu": ""
-            }
-          },
-          "collection__sidebar-2": {
-            "type": "text",
-            "settings": {
-              "title": "Heading",
-              "text": "<p>Text area can be used for details about blog authors or general information.</p>"
-            }
-          }
-        },
-        "block_order": [
-          "collection__sidebar-0",
-          "collection__sidebar-1",
-          "collection__sidebar-2"
-        ],
-        "settings": {
-          "show_sidebar": false,
           "css_class": "",
           "custom_css": ""
         }
@@ -1274,7 +827,7 @@
           "image": "",
           "image_darken": true,
           "promo_title": "Special sale on now!",
-          "promo_text": "<p>Description of promotion with lots of details.</p>",
+          "promo_text": "<p>Description of promotion with lots of details.<\/p>",
           "banner_height": "medium",
           "align_height": false,
           "collection_height": 200,
@@ -1289,6 +842,9 @@
           "custom_css": ""
         }
       }
-    }
+    },
+    "content_for_index": [
+
+    ]
   }
 }
